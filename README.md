@@ -1,7 +1,7 @@
 <!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=bimapanji&color=ff79c6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff79c6&style=flat)
 
-<!-- Typing animation header -->
+<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF79C6&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Backend+Apps;JavaScript+%2F+TypeScript+Lover;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 # Hi, I'm Bima Panji Wijaya 👋
@@ -34,25 +34,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bimapanji&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=bimapanji&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimapanji&layout=compact&theme=radical&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="40%"/>
 </p>
 
-
-![Snake animation](https://raw.githubusercontent.com/bimapanji/bimapanji/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bimapanji)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bimapanji)
-[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=flat&logo=github&logoColor=white)](https://bimapanji.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=flat&logo=github&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
 ---
 
-<p align="center">Made with ❤️ by Bima Panji Wijaya  |  always building, always learning</p>
+<p align="center">Made with ❤️ by Bima Panji Wijaya &nbsp;|&nbsp; always building, always learning</p>
