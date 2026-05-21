@@ -102,7 +102,7 @@ const bima = {
 </p>
 
 <!-- Snake animation — aktifkan setelah setup GitHub Actions -->
-<!-- ![Snake](https://raw.githubusercontent.com/BimaPanjiWijaya/BimaPanjiWijaya/output/github-contribution-grid-snake-dark.svg) -->
+ ![Snake](https://raw.githubusercontent.com/BimaPanjiWijaya/BimaPanjiWijaya/output/github-contribution-grid-snake-dark.svg) 
 
 ---
 
