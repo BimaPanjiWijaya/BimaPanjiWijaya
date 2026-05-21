@@ -33,13 +33,15 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bimapanji&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=bimapanji&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimaPanjiWijaya&layout=compact&theme=radical&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimapanji&layout=compact&theme=radical&hide_border=true" width="40%"/>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
