@@ -28,16 +28,19 @@
 
 ## 🧑‍💻 About Me
 
-> 🔥 Full Stack JavaScript Developer | Hacktiv8 Graduate | Open to Work
-
-- 📍 **Location** — Jakarta, Indonesia 🇮🇩
-- 💼 **Role** — Full Stack JavaScript Developer
-- 🎓 **Bootcamp** — Hacktiv8 Full Stack JavaScript Program
-- ☕ **Fuel** — Coffee addict (can't code without it)
-- 🎧 **Vibes** — Lofi hip-hop while coding
-- 🐛 **Superpower** — Turning bugs into features ✨
-- 🚀 **Motto** — Always building, always learning
-- 💡 **Open To** — Full Time · Freelance · Collaboration
+```javascript
+const bima = {
+  name:       "Bima Panji Wijaya",
+  role:       "Full Stack JavaScript Developer",
+  bootcamp:   "Hacktiv8 — Full Stack JavaScript Program",
+  location:   "Indonesia 🇮🇩",
+  fuel:       "Coffee ☕ (lots of it)",
+  music:      "Lofi hip-hop 🎧 while coding",
+  superpower: "Turning bugs into features 🐛→✨",
+  motto:      "Always building, always learning 🚀",
+  openTo:     ["Full Time", "Freelance", "Collaboration"],
+};
+```
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                              -->
