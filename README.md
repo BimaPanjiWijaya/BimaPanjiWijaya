@@ -2,16 +2,20 @@
 <!--                    HEADER SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=BIMA%20PANJI%20WIJAYA&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20JavaScript%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BimaPanjiWijaya&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BimaPanjiWijaya&color=ff2d78&style=flat-square&label=PROFILE+VIEWS"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/BimaPanjiWijaya?style=flat-square&color=00fff9&label=FOLLOWERS"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=flat-square"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BimaPanjiWijaya&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BimaPanjiWijaya&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BimaPanjiWijaya&theme=tokyonight" width="32%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BimaPanjiWijaya&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
