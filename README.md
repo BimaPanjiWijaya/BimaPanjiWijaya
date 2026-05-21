@@ -82,20 +82,19 @@ const bima = {
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BimaPanjiWijaya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=ff2d78&text_color=a0a0c0&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimaPanjiWijaya&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=a0a0c0"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BimaPanjiWijaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimaPanjiWijaya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BimaPanjiWijaya&theme=midnight-purple&hide_border=true&background=0d1117&ring=ff2d78&fire=ff2d78&currStreakLabel=00fff9&sideLabels=a0a0c0&dates=606090"/>
+  <img src="https://streak-stats.demolab.com?user=BimaPanjiWijaya&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BimaPanjiWijaya&bg_color=0d1117&color=00fff9&line=ff2d78&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BimaPanjiWijaya&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <!-- Snake animation — aktifkan setelah setup GitHub Actions -->
