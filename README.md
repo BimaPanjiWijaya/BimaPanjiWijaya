@@ -32,7 +32,6 @@
 const bima = {
   name:       "Bima Panji Wijaya",
   role:       "Full Stack JavaScript Developer",
-  bootcamp:   "Hacktiv8 — Full Stack JavaScript Program",
   location:   "Indonesia 🇮🇩",
   fuel:       "Coffee ☕ (lots of it)",
   music:      "Lofi hip-hop 🎧 while coding",
