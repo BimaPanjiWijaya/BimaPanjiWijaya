@@ -32,13 +32,15 @@
 
 ## 📊 GitHub Stats
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20"> GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BimaPanjiWijaya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=00fff9&icon_color=ff2d78&text_color=a0a0c0" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=BimaPanjiWijaya&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=ff2d78&fire=ff2d78&currStreakLabel=00fff9" width="48%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BimaPanjiWijaya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=00fff9&icon_color=ff2d78&text_color=a0a0c0&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimaPanjiWijaya&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=00fff9&text_color=a0a0c0"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimaPanjiWijaya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=00fff9&text_color=a0a0c0" width="40%"/>
+  <img src="https://streak-stats.demolab.com?user=BimaPanjiWijaya&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=ff2d78&fire=ff2d78&currStreakLabel=00fff9"/>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/BimaPanjiWijaya/BimaPanjiWijaya/output/github-contribution-grid-snake-dark.svg)
