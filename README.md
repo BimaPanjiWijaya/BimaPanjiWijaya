@@ -85,12 +85,12 @@ const bima = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BimaPanjiWijaya&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BimaPanjiWijaya&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BimaPanjiWijaya&theme=tokyonight&hide_border=true"/>
+![Total Commits](https://img.shields.io/badge/Total%20Commits-75-ff2d78?style=for-the-badge&logo=github)
+![Repos](https://img.shields.io/badge/Public%20Repos-16-00fff9?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-3-a855f7?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-12-febc2e?style=for-the-badge&logo=github)
+
 </p>
 
 <p align="center">
