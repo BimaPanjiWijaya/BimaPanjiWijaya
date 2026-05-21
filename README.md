@@ -28,19 +28,42 @@
 
 ## 🧑‍💻 About Me
 
-| | |
-|---|---|
-| 👤 **Name** | Bima Panji Wijaya |
-| 💼 **Role** | Full Stack JavaScript Developer |
-| 🎓 **Bootcamp** | Hacktiv8 — Full Stack JavaScript Program |
-| 📍 **Location** | Jakarta, Indonesia 🇮🇩 |
-| ☕ **Fuel** | Coffee (lots of it) |
-| 🎧 **Music** | Lofi hip-hop while coding |
-| 🐛 **Superpower** | Turning bugs into features ✨ |
-| 🚀 **Motto** | Always building, always learning |
-| 💡 **Open To** | Full Time · Freelance · Collaboration |
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
----
+### 👨‍💻 Who Am I?
+
+🔥 **Full Stack JavaScript Developer** yang passionate dalam membangun produk digital dari nol sampai deploy.
+
+🎓 Graduate dari **Hacktiv8 Bootcamp** — salah satu bootcamp coding terbaik di Indonesia.
+
+🌱 Selalu belajar teknologi baru dan tidak takut menghadapi tantangan.
+
+💡 Percaya bahwa **kode yang baik = solusi yang elegan**.
+
+🤝 Terbuka untuk **Full Time, Freelance, dan Kolaborasi**.
+
+    </td>
+    <td valign="top" width="50%">
+
+### 📋 Quick Info
+
+| | |
+|:---:|:---|
+| 📍 | Jakarta, Indonesia 🇮🇩 |
+| 💼 | Open to Work ✅ |
+| 🎓 | Hacktiv8 Graduate |
+| ☕ | Coffee addict |
+| 🎧 | Lofi + Code = 🔥 |
+| 🐛 | Bug hunter & fixer |
+| 🚀 | Always building |
+
+    </td>
+  </tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=500&color=00FFF9&width=600&lines=🔥+Passionate+about+clean+code+and+good+architecture;🎯+Focused+on+building+real-world+solutions;🌱+Currently+leveling+up+TypeScript+%26+Docker;💡+Turning+ideas+into+working+products;🤝+Let's+collaborate+and+build+something+great!" />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK                              -->
