@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimapanji&layout=compact&theme=radical&hide_border=true" width="40%"/>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/BimaPanjiWijaaya/BimaPanjiWijaya/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
